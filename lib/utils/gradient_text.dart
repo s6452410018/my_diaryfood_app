@@ -30,3 +30,4 @@ class GradientText extends StatelessWidget {
     );
   }
 }
+  
